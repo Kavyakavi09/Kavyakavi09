@@ -26,7 +26,7 @@
 <a href="https://github.com/Kavyakavi09" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github" width="40" height="40"/> </a></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavyakavi09&show_icons=true&locale=en&layout=compact" alt="kavyakavi09" /></p><br/>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavyakavi09&show_icons=true&locale=en&layout=compact" alt="kavyakavi09" /></div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavyakavi09&show_icons=true&locale=en" alt="kavyakavi09" /></p>
 
