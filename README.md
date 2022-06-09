@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
 <h1 align="center">Hi 👋, I'm Kavya Karuppusamy</h1>
 <h3 align="center">A passionate fullstack webdeveloper from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
 
 - 🌱 I’m currently learning **Backend technologies**
 
@@ -26,11 +26,11 @@
 <a href="https://github.com/Kavyakavi09" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github" width="40" height="40"/> </a></p>
 
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavyakavi09&show_icons=true&locale=en&layout=compact" alt="kavyakavi09" /></div>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavyakavi09&show_icons=true&locale=en&layout=compact&theme=radical" alt="kavyakavi09" /></div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavyakavi09&show_icons=true&locale=en" alt="kavyakavi09" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavyakavi09&show_icons=true&locale=en&theme=radical" alt="kavyakavi09" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavyakavi09&" alt="kavyakavi09" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavyakavi09&theme=radical" alt="kavyakavi09" /></p>
 
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=Kavyakavi09" alt="kavyakavi09" /></p>
 
