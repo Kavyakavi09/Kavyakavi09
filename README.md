@@ -3,17 +3,19 @@
 <h3 align="center">A passionate fullstack webdeveloper from India</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
 
-- 🌱 I’m currently learning **Backend technologies**
+<p>
+  <a href="https://kavyakaruppusamy.netlify.app/" target="_blank"><h3>Portfolio website</h3></a>
+</p>
 
-- 💬 Ask me about **React and Javascript**
+- 🌱 I have learned Full stack web development (MERN STACK)
+
+- 💬 Ask me about **Mongo, Express, React, Node**
 
 - 📫 How to reach me **kavyakaruppusamy09@gmail.com**
 
 - ⚡ Fun fact **Fun guy**
 
-<p>
-  <a href="https://kavyakaruppusamy.netlify.app/" target="_blank"><h3>Portfolio website</h3></a>
-</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
