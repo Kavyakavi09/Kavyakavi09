@@ -11,7 +11,9 @@
 
 - ⚡ Fun fact **Fun guy**
 
-<a href="https://kavyakaruppusamy.netlify.app/" target="_blank">Portfolio website</a>
+<p>
+  <a href="https://kavyakaruppusamy.netlify.app/" target="_blank"><h3>Portfolio website</h3></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
