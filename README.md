@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
 
 
-  <h2><a href="https://kavyakavi.netlify.app/" target="_blank">Portfolio website</a></h2>
+  <a href="https://kavyakavi.netlify.app/" target="_blank" style="font-size:20px">Portfolio website</a>
 
 
 - 🌱 I have learned Full stack web development (MERN STACK)
